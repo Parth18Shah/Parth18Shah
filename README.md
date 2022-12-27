@@ -6,7 +6,7 @@
 
 ### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hey there, I’m @Parth18Shah <br><br>
 
-<img align="right" alt="GIF" src="" width="500" height="340" />
+<img align="right" alt="GIF" src="https://github.com/Parth18Shah/Parth18Shah/blob/main/coder%20gif.gif" width="500" height="340" />
 
 - 🤖 I am an graduate Computer Science student at University of Southern California. I am a self-motivated, creative and technically sound computer engineering student with a keen interest in learning new technologies.
 
