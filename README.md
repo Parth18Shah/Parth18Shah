@@ -4,16 +4,19 @@
 <a href="mailto:parth18shah@gmail.com"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>	
 </p>
 
-### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hey there, I’m @Parth18Shah <br><br>
+### <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px"> Hey there, I’m Parth Virendrakumar Shah <br><br>
 
-<img align="right" alt="GIF" src="https://github.com/Parth18Shah/Parth18Shah/blob/main/coder%20gif.gif" width="500" height="340" />
+<p align="center">
+<img alt="GIF" src="https://github.com/Parth18Shah/Parth18Shah/blob/main/coder%20gif.gif" width="400" height="250" />
+</p>
 
-- 🤖 I am an graduate Computer Science student at University of Southern California. I am a self-motivated, creative and technically sound computer engineering student with a keen interest in learning new technologies.
+- 🤖 I am a self-motivated, creative and technically sound Computer Science student at University of Southern California with a keen interest in learning new technologies.
 
 - 👉 My interests mainly lies in Web Development and Data Science.
 
-<br />
+<br/>
 
+---
 
 <h1 align="center"> 🚀 Technology Stack</h1>
 
